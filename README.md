@@ -13,7 +13,7 @@ Source du dataset : [Pen-Based Recognition of Handwritten Digits](https://archiv
     - Les k plus proches voisins
     - Le perceptron (n'importe quelle variante)
     - Les arbres de décision
-- Appliquer les algorithmes d'apprentissage non supervisés vus en cours (CAH et k-moyennes) sur les données comme décrit ci-dessous afin de mettre en évidence des résultats intéressants.
+- Appliquer les algorithmes d'apprentissage non supervisés vus en cours (CAH et k-moyennes) sur les données afin de mettre en évidence des résultats intéressants.
 
 ## Captures d'écran
 
