@@ -1,7 +1,9 @@
 # Pen-Based Recognition of Handwritten Digits
 
 Reconnaissance de chiffres manuscrits.
-Source du dataset : [Data]([https://www.google.com](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits))
+
+Source du dataset : [Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
+
 
 
 ## Objectifs 
