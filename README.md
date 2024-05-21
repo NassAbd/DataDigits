@@ -17,9 +17,9 @@ Source du dataset : [Pen-Based Recognition of Handwritten Digits](https://archiv
 
 ## Captures d'écran
 
-![Digits](./imageWeb1.png)
-![Digits](./imageWeb3.png)
-![Digits](./imageWeb4.png)
+![Digits](./imageDigits1.png)
+![Digits](./imageDigits2.png)
+![Digits](./imageDigits3.png)
 
 ## License
 
