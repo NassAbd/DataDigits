@@ -1,6 +1,10 @@
 # Pen-Based Recognition of Handwritten Digits
 
-Le site Organiz’asso permet à des membres d’une association d’échanger des messages avec des forums.
+Reconnaissance de chiffres manuscrits.
+
+Source du dataset : [Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
+
+
 
 ## Objectifs 
 
@@ -9,21 +13,13 @@ Le site Organiz’asso permet à des membres d’une association d’échanger d
     - Les k plus proches voisins
     - Le perceptron (n'importe quelle variante)
     - Les arbres de décision
-- Appliquer les algorithmes d'apprentissage non supervisés vus en cours (CAH et k-moyennes) sur les données comme décrit ci-dessous afin de mettre en évidence des résultats intéressants.
+- Appliquer les algorithmes d'apprentissage non supervisés vus en cours (CAH et k-moyennes) sur les données afin de mettre en évidence des résultats intéressants.
 
 ## Captures d'écran
 
 ![Digits](./imageWeb1.png)
 ![Digits](./imageWeb3.png)
 ![Digits](./imageWeb4.png)
-
-## Utilisation
-
-1. Ouvrir l'application dans votre navigateur.
-2. Se connecter / S'inscrire
-3. Participer aux discussions
-4. Visualiser son profil
-
 
 ## License
 
