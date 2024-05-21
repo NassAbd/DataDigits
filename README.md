@@ -13,9 +13,9 @@ Le site Organiz’asso permet à des membres d’une association d’échanger d
 
 ## Captures d'écran
 
-![Motus Screenshot](./imageWeb1.png)
-![Motus Screenshot](./imageWeb3.png)
-![Motus Screenshot](./imageWeb4.png)
+![Digits](./imageWeb1.png)
+![Digits](./imageWeb3.png)
+![Digits](./imageWeb4.png)
 
 ## Utilisation
 
