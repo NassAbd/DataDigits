@@ -21,7 +21,4 @@ Source du dataset : [Pen-Based Recognition of Handwritten Digits](https://archiv
 ![Digits](./imageDigits2.png)
 ![Digits](./imageDigits3.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
